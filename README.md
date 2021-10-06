@@ -22,3 +22,11 @@ What things I will do before going to PROD:-
 3. It depends if API provide pagination capability or not.
 4. Use ROOM to store data as data might become big in PROD.
 5. Add e2e test cases.   
+
+
+
+Test Report 
+https://github.com/Jaggrat-Singh/dog-app/blob/main/report.png
+
+UI
+https://github.com/Jaggrat-Singh/dog-app/blob/main/details.png 
