@@ -7,12 +7,12 @@ Logic of app:-
 
 At the start of the app internet should be connected in order to fetch the data, otherwise internet error message shown to user. This application supports both the orientation. The test case coverage for ViewModel/Business logic is over ~85%.
 
-[] MVVM: Used MVVM with ViewModel and LiveData to maintain updated state of UI during configuration change. ViewModel has used UDF and ViewState to maintain a single point of communication rather than exposing multiple livedata objects.
-2. Kotlin: Used Kotlin for business, view, and test cases 100%.
-3. RxJava : To fetch the response from API.
-4. Retrofit : Called API with query params.
-5. Dagger : Dependency injector.
-6. Mockito : Tested ViewModel since it is handling business logic to call api etc. The code coverage for ViewModel is 94% line coverage%.
+- [x] MVVM: Used MVVM with ViewModel and LiveData to maintain updated state of UI during configuration change. ViewModel has used UDF and ViewState to maintain a single point of communication rather than exposing multiple livedata objects.
+- [x] Kotlin: Used Kotlin for business, view, and test cases 100%.
+- [x] RxJava : To fetch the response from API.
+- [x] Retrofit : Called API with query params.
+- [x] Dagger : Dependency injector.
+- [x] Mockito : Tested ViewModel since it is handling business logic to call api etc. The code coverage for ViewModel is 94% line coverage%.
 
 Note: If I had more time I could have done the better job in UI. I could have made this application connection aware.
 
