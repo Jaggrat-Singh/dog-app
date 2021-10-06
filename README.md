@@ -26,7 +26,5 @@ What things I will do before going to PROD:-
 
 
 Test Report 
+![](./report.png)
 https://github.com/Jaggrat-Singh/dog-app/blob/main/report.png
-
-UI
-https://github.com/Jaggrat-Singh/dog-app/blob/main/details.png 
