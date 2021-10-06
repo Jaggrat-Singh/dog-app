@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">android-test</string>
+	<string name="internet_warning">Please check your internet connection. And restart the app.</string>
+	<string name="data_error">There is an problem while getting the data. Please try again.</string>
+	<string name="no_data">No Records found. Please try again.</string>
+	<string name="welcome_message">Namaste, Welcome to Dog World </string>
+	<string name="hint">Shih Tzu, Chinook etc.</string>
+	<string name="api_error">Something went wrong with API.</string>
+	<string name="search">Search</string>
+	<string name="fetch">Fetch All</string>
+
+</resources>
