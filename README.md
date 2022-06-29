@@ -1,6 +1,6 @@
 # android-test
 
-Logic of app:- 
+Logic of app:
 1. At the start of the application, an API call is made to get the list of dogs.
 2. For Search, First it will go through the data that is shown to user to check if any name contains the keyword. 
 3. If no result is found from step [2] it would call the search api with query param to get the list of items. 
